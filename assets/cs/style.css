@@ -1,0 +1,104 @@
+.card-block1{
+    margin-top: 30px;
+}
+
+.class-card{
+    margin-left: 30px;
+}
+
+.about{
+    margin-top: 140px;
+}
+
+p{
+    line-height: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul{
+    list-style: none;
+}
+
+.exp{
+    margin-top: 140px;
+}
+
+.progress{
+    margin: 40px;
+}
+
+.card{
+    box-shadow: 10px 10px 10px powderblue;
+    border-radius: 30px;
+    /* padding: 20px; */
+    background-color: white!important;
+}
+
+.card-block{
+    background-color: #0d6efd;
+    padding: 20px;
+}
+
+.form{
+    border: 1px solid #c4c3be;
+    padding: 22px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 10px grey;
+    background-color: white;
+    /* margin: 20px; */
+}
+
+.form > p{
+    color: grey;
+    font-size: 15px;
+}
+
+a{
+    color:white;
+    text-decoration: none;
+}
+
+a:hover{
+    color:white;
+    text-decoration: none;
+}
+
+.contact{
+    background-color: #1534ED;
+}
+
+.card-work{
+    background-color: #404042;
+    padding: 30px;
+}
+
+
+.work-p{
+    color: white;
+}
+
+.work-t{
+    color: white;
+}
+
+.skillhobbie{
+    background-color: #1534ED;
+    padding:20px
+}
+
+.img{
+    border-radius: 20px;
+}
+
+.content{
+    color:#9C5E04;
+}
+
+.nav-link{
+    font-size: 20px;
+    /* padding: 20px; */
+}
+
+.navbarSupportedContent{
+    flex-grow: 2!important;
+}
